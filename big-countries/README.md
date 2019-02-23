@@ -29,3 +29,7 @@ For example, according to the above table, we should output:
 select `name`, `population`, `area` from `World`
 where `area` > 3000000 or `population` > 25000000;
 ```
+
+### Note
+
+If you have a better solution, you can star and fork [Leetcode-database-problem](https://github.com/xx19941215/Leetcode-database-problem) then create a pull request.

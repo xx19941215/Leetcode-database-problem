@@ -21,3 +21,7 @@ Note: All emails are in lowercase.
 ```sql
 select `Email` from `Person` group by `Email` having count(*) > 1;
 ```
+
+### Note
+
+If you have a better solution, you can star and fork [Leetcode-database-problem](https://github.com/xx19941215/Leetcode-database-problem) then create a pull request.
