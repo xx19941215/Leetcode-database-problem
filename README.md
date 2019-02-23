@@ -3,7 +3,7 @@ A solution for Leetcode database problem
 
 |Id|Question|Level|
 |--|--|--|
-|598|[Big Countries](Big-Contries)|Easy|
+|598|[Big Countries](Big-Countries)|Easy|
 |182|Duplicate Emails|Easy|
 |672|Swap Salary|Easy|
 |620|Not Boring Movies|Easy|
