@@ -4,6 +4,7 @@ X city built a new stadium, each day many people visit it and the stats are save
 Please write a query to display the records which have 3 or more consecutive rows and the amount of people more than 100(inclusive).
 
 For example, the table stadium:
+
 | id   | date       | people    |
 |------|------------|-----------|
 | 1    | 2017-01-01 | 10        |
