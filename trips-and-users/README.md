@@ -13,6 +13,7 @@ The Trips table holds all taxi trips. Each trip has a unique Id, while Client_Id
 | 8  |     2     |    12     |    12   |     completed      |2013-10-03|
 | 9  |     3     |    10     |    12   |     completed      |2013-10-03| 
 | 10 |     4     |    13     |    12   | cancelled_by_driver|2013-10-03|
+
 The Users table holds all users. Each user has an unique Users_Id, and Role is an ENUM type of (‘client’, ‘driver’, ‘partner’).
 
 | Users_Id | Banned |  Role  |
@@ -25,6 +26,7 @@ The Users table holds all users. Each user has an unique Users_Id, and Role is a
 |    11    |   No   | driver |
 |    12    |   No   | driver |
 |    13    |   No   | driver |
+
 Write a SQL query to find the cancellation rate of requests made by unbanned users between Oct 1, 2013 and Oct 3, 2013. For the above tables, your SQL query should return the following rows with the cancellation rate being rounded to two decimal places.
 
 |     Day    | Cancellation Rate |

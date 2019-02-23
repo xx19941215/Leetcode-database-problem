@@ -14,6 +14,7 @@ For example, the table stadium:
 | 6    | 2017-01-06 | 1455      |
 | 7    | 2017-01-07 | 199       |
 | 8    | 2017-01-08 | 188       |
+
 For the sample data above, the output is:
 
 | id   | date       | people    |
@@ -22,6 +23,7 @@ For the sample data above, the output is:
 | 6    | 2017-01-06 | 1455      |
 | 7    | 2017-01-07 | 199       |
 | 8    | 2017-01-08 | 188       |
+
 Note:
 Each day only have one row record, and the dates are increasing with id increasing.
 

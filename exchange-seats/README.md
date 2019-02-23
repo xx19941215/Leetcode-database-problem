@@ -5,6 +5,7 @@ Mary is a teacher in a middle school and she has a table seat storing students' 
 The column id is continuous increment.
 Mary wants to change seats for the adjacent students.
 Can you write a SQL query to output the result for Mary?
+
 |    id   | student |
 |---------|---------|
 |    1    | Abbot   |
