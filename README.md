@@ -3,8 +3,8 @@ A solution for Leetcode database problem
 
 |Id|Question|Level|
 |--|--|--|
-|598|[Big Countries](Big-Countries)|Easy|
-|182|Duplicate Emails|Easy|
+|598|[Big Countries](big-countries)|Easy|
+|182|[Duplicate Emails](duplicate-emails)|Easy|
 |672|Swap Salary|Easy|
 |620|Not Boring Movies|Easy|
 |175|Combine Two Tables|Easy|
